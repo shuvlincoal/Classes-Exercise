@@ -21,7 +21,6 @@ namespace Classes
             Model = model;
             Make = make;
             Year = year;
-
         }
 
     }//class

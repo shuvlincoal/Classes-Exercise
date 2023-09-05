@@ -12,7 +12,7 @@ namespace Classes
             Car car1   = new Car("Nissan", "Rogue", 2023);
 
 
-            Console.WriteLine($"Car: Make: {car1.Make}, Model: {car1.Model}, Year{car1.Year} ");
+            Console.WriteLine($"Car: Make: {car1.Make}, Model: {car1.Model}, Year:{car1.Year} ");
 
 
 
