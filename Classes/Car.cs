@@ -13,7 +13,7 @@ namespace Classes
 
         public int    Year  { get; set; }  //property
         public string Model { get; set; }  //property
-        public string Make { get; set; }  //property
+        public string Make  { get; set; }  //property
 
 
         public Car(string make, string model, int year)  //custom Constructor
